@@ -8,12 +8,13 @@ who are eligible to participate in a mentorship program based on age.
 ## Results
 The query results for retiring persons showed:
 * 90,398 employees will be eligible for retirement
+
 ![Employees eligible for retirement](Images/retiring_titles.PNG)
 
 * Employees eligible for retirement equates to 37.64% of the workforce
 
-	Total Active Employees		Total Eligible to Retire
-   ------------------------------------------------------
+	Total Active Employees						Total Eligible to Retire
+   ----------------------------------------------------------------------------------------------
 		      240,124							  90,398
 		
 
@@ -22,7 +23,7 @@ The query results for retiring persons showed:
 
 ![Percent pie chart](Images/retiring_titles_pie.PNG)
 
-*Only 1549 employees (less than 1%) qualify for the mentorship program.
+* Only 1549 employees (less than 1%) qualify for the mentorship program.
 
 
 
