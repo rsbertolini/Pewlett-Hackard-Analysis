@@ -28,17 +28,17 @@ The query results for retiring persons showed:
 
 
 ## Summary
-How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+
 Over 90,000 positions will be retirement eligible and Pewlett Hackard will need to be strategic about filling positions.  It would be a good idea
 to see if any particular department will be hit hard.  A query tying retirement eligible employees to departments would give you an idea of which departments 
 will take the biggest hit.  Development and Production departments will take the biggest retirement hit.
+
 ![Employees eligible for retirement by dept](Images/retiring_depts.PNG)
 
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 There are only 1549 employees who qualify for the mentorship program given the criteria from HR that they have to be born in 1965.  
-However, if you expand the criteria to senior level employees, instead of age you would have a larger subset of mentors to work with.
+However, if you expand the criteria to senior level employees instead of age you would have a larger subset of mentors to work with.
 
 
 Total Senior Level Employees		Total Senior Level Retirement Eligible			Senior Level Qualifying for Mentorship
 ----------------------------------------------------------------------------------------------------------------------------
-		    167,693									            57,668											                    110,025
+		    167,693									            57,668											                   	 110,025
