@@ -8,7 +8,7 @@ who are eligible to participate in a mentorship program based on age.
 ## Results
 The query results for retiring persons showed:
 * 90,398 employees will be eligible for retirement
-![Employees eligible for retirement](Images/retiring_titles.png)
+![Employees eligible for retirement](Images/retiring_titles.PNG)
 
 * Employees eligible for retirement equates to 37.64% of the workforce
 
@@ -20,7 +20,7 @@ The query results for retiring persons showed:
 
 * 63.8% of employees eligible for retirement are senior level staff.
 
-![Percent pie chart](Images/retiring_titles_pie.png)
+![Percent pie chart](Images/retiring_titles_pie.PNG)
 
 *Only 1549 employees (less than 1%) qualify for the mentorship program.
 
@@ -31,7 +31,7 @@ How many roles will need to be filled as the "silver tsunami" begins to make an 
 Over 90,000 positions will be retirement eligible and Pewlett Hackard will need to be strategic about filling positions.  It would be a good idea
 to see if any particular department will be hit hard.  A query tying retirement eligible employees to departments would give you an idea of which departments 
 will take the biggest hit.  Development and Production departments will take the biggest retirement hit.
-![Employees eligible for retirement by dept](Images/retiring_depts.png)
+![Employees eligible for retirement by dept](Images/retiring_depts.PNG)
 
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 There are only 1549 employees who qualify for the mentorship program given the criteria from HR that they have to be born in 1965.  
