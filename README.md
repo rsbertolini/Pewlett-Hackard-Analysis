@@ -11,6 +11,7 @@ The query results for retiring persons showed:
 ![Employees eligible for retirement](Images/retiring_titles.png)
 
 * Employees eligible for retirement equates to 37.64% of the workforce
+
 	Total Active Employees		Total Eligible to Retire
    ------------------------------------------------------
 		      240,124							  90,398
@@ -18,7 +19,8 @@ The query results for retiring persons showed:
 
 
 * 63.8% of employees eligible for retirement are senior level staff.
-![Percent pie chart](Images/retiring_titles_pic.png)
+
+![Percent pie chart](Images/retiring_titles_pie.png)
 
 *Only 1549 employees (less than 1%) qualify for the mentorship program.
 
@@ -34,6 +36,7 @@ will take the biggest hit.  Development and Production departments will take the
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 There are only 1549 employees who qualify for the mentorship program given the criteria from HR that they have to be born in 1965.  
 However, if you expand the criteria to senior level employees, instead of age you would have a larger subset of mentors to work with.
+
 
 Total Senior Level Employees		Total Senior Level Retirement Eligible			Senior Level Qualifying for Mentorship
 ----------------------------------------------------------------------------------------------------------------------------
