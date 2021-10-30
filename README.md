@@ -38,5 +38,5 @@ will take the biggest hit.  Development and Production departments will take the
 There are only 1549 employees who qualify for the mentorship program given the criteria from HR that they have to be born in 1965.  
 However, if you expand the criteria to senior level employees instead of age you would have a larger subset of mentors to work with.
 
-![Mentorship stats](Images/mentorship_stats.PNG)
+![Mentorship stats](Images/Mentorship_stats.PNG)
 
