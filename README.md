@@ -13,7 +13,7 @@ The query results for retiring persons showed:
 
 * Employees eligible for retirement equates to 37.64% of the workforce
 
-	Total Active Employees						Total Eligible to Retire
+	Total Active Employees								Total Eligible to Retire
    ----------------------------------------------------------------------------------------------
 		      240,124							  90,398
 		
